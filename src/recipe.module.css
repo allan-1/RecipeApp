@@ -1,0 +1,25 @@
+.recipe{
+    border-radius: 10px;
+    box-shadow: 0 5px 20px #495464;
+    margin: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    background-color: #ffd5cd;
+    align-items: center;
+    min-width: 40%;
+    padding: 10px;
+}
+.image{
+    border-radius: 50%;
+    height: 170px;
+    height: 170px;
+}
+.footer{
+    color: #790c5a;
+    font-size: small;
+}
+.calories{
+   color: #790c5a;
+   font-weight: bold; 
+}
